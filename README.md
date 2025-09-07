@@ -6,10 +6,9 @@
   <a href="https://tobioyelekan.com"><img alt="Tobi's website" src="https://img.shields.io/badge/Portfolio-white"/></a> 
 </p>
 
-I am Tobi Oyelekan, Mobile software engineer based in Lagos
-I'm interested in Android, Kotlin multiplatform, React Native, and Flutter
-
-Lover of open source projects 🚀
+🔭 I’m a **Mobile Software Engineer** based in Lagos, Nigeria.  
+💙 Interested in **Android, Kotlin Multiplatform, React Native, and Flutter**.  
+🚀 Lover of open source projects & community contributions.
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobioyelekan"/>
