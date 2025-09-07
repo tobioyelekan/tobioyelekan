@@ -16,6 +16,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
+💡 Fun fact: I enjoy mentoring and building scalable mobile solutions.  
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobioyelekan"/>
 </p>
