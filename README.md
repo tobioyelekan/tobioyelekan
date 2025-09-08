@@ -7,7 +7,7 @@
 </p>
 
 🔭 I’m a **Mobile Software Engineer** based in Lagos, Nigeria.  
-💙 Interested in **Android, Kotlin Multiplatform, and React Native**.  
+💙 Interested in **Android Jetpack Compose, Kotlin Multiplatform, and React Native**.  
 🚀 Lover of open source projects & community contributions.
 
 ### 🛠️ Tech Stack
